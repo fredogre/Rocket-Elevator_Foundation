@@ -29,7 +29,7 @@ namespace RocketApi.Controllers
             var _result = _context.Users.Where(s=>s.Email==email).FirstOrDefault();
             if (_result == null)
             {
-                throw new HttpResponseException(HttpStatusCode.Unauthorized);
+                return NotFound();
             } 
             return _result;
         }
