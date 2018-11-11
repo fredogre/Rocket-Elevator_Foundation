@@ -17,7 +17,8 @@ Récupération du Statut actuel d’une Cage d’ascenseur pour une cage spécif
 
 Modification du Statut d’une Cage d’ascenseur spécifiée  Url: https://rocket-api-fred.azurewebsites.net/api/elevators/{id}
 
-Récupération d’une liste d’ascenseurs qui ne sont pas en opération au moment de la requête Url: https://https://rocket-api-fred.azurewebsites.net/api/elevators/status
+Récupération d’une liste d’ascenseurs qui ne sont pas en opération au moment de la requête Url: 
+https://rocket-api-fred.azurewebsites.net/api/elevators/status
 
 Récupération d’une liste de buildings qui contiennent au moins une batterie, une colonne ou un ascenseur requérant une intervention Url: https://rocket-api-fred.azurewebsites.net/api/buildings/intervention
 
