@@ -24,7 +24,7 @@ Récupération d’une liste de buildings qui contiennent au moins une batterie,
 
 Récupération d’une liste de leads créés au cours des 30 derniers jours qui ne sont pas encore devenus des clients. Url: https://rocket-api-fred.azurewebsites.net/api/leads/new
 
-Récupération de la liste des employés de la compagnie: https://rocket-api-fred.azurewebsites.net/api/users/+le email de l'employé
+Récupération de la liste des employés de la compagnie: https://rocket-api-fred.azurewebsites.net/api/users/ +le email de l'employé
 
 
 # Rocket-Elevator_Foundation
